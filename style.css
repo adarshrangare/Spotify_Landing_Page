@@ -533,3 +533,28 @@ input#consent-checkbox{
     display: block;
     margin-top: 10px;
 }
+
+
+footer{
+    text-align: center;
+    border: none;
+    padding: 40px;
+    color: rgb(255, 255, 255);
+}
+
+footer a{
+    text-decoration: none;
+}
+footer a i{
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    font-size: 1.5rem;
+}
+
+footer a i:hover{
+    color: rgb(30, 215, 96);
+}
+
+footer p{
+    color: rgb(170, 170, 170);
+}
